@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Prediction using Machine Learning
+# Predicting Hotel Booking Cancellations to Reduce Revenue loss and Improve Customer Retention using Machine Learning
 
 ## Project Overview
 
@@ -74,8 +74,8 @@ Tree-based models outperformed logistic regression due to better handling of non
 
 Important predictors:
 
-- Lead Time
-- Average Price per Room
+- Lead Time and customer type are strong predictors of cancellation probability 
+- Pricing and booking channels influence cancellations behaviour 
 - Market Segment
 - Previous Cancellations
 - Repeat Guest Status
@@ -83,11 +83,14 @@ Important predictors:
 
 ## Business Recommendations
 
-- Apply dynamic cancellation policies for high-risk bookings.
+- Implement targeted retention strategies for high-risk bookings.
 - Introduce deposit-based booking confirmation.
 - Encourage personalization during booking.
 - Reward repeat guests through loyalty programs.
 - Reduce OTA dependency by promoting direct bookings.
+
+## Business Impacts 
+This model can help reduce revenue loss, improve forecasting accuracy and enable proactive customer engagement strategies.
 
 ## Tools & Technologies
 
